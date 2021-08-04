@@ -1,1 +1,2 @@
-# Yatra-automation-repo
+# Flight-Search-Automation
+Yatra Flight Search - Automation
